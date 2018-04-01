@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "410154760075",
+    "firebase_url": "https://modul6-138c3.firebaseio.com",
+    "project_id": "modul6-138c3",
+    "storage_bucket": "modul6-138c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410154760075:android:4e5802f86ee32f93",
+        "android_client_info": {
+          "package_name": "com.vkeyws.fiqih_1202154123_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410154760075-u2ervnir0s9uhh828mnr0uip9k9pd8ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJZ9Zho9EK0UidRcYyFeQvP-tE4rW4LEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
